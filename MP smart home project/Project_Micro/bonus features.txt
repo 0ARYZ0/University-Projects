@@ -1,0 +1,8 @@
+Hi , this is the edited project with the following bonuses:
+1- I added a speaker for when we enter the critical sections(below 3 and above 55)
+ that buzz besides the blinking LEDs.
+
+2- I also encrypted the the datas that are sent from master to the slave, and decrypted them
+in the slave.( i used the xor for encrypting the data)
+
+3- 
